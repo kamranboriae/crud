@@ -1,0 +1,14 @@
+{
+  "name": "datasqlite",
+  "version": "1.0.0",
+  "description": "sample project nodejs management sqlite database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kamran Boriae",
+  "license": "MIT",
+  "dependencies": {
+    "sqlite3": "^5.0.2"
+  }
+}
